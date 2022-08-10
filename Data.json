@@ -37,6 +37,11 @@
 					"Step": 1,
 					"Title": "Conectado a 5GHz",
 					"Content": "Si está conectado a 5GHz, es recomendable estar en un alcance máximo de 10 mts sin obstaculos."
+				},
+								{
+					"Step": 2,
+					"Title": "Conectarse a 2.4 GHz",
+					"Content": "Si está conectado a 5GHz, es recomendable estar en un alcance máximo de 10 mts sin obstaculos."
 				}
 			],
 			"Enable": true
